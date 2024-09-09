@@ -1,11 +1,11 @@
 sitemap:
   - title: overview
-    url: mpi-pboc/2024/index
+    url: /index
   - title: schedule
-    url: mpi-pboc/2024/schedule
+    url: /schedule
   - title: people
-    url: mpi-pboc/2024/people
+    url: /people
   - title: tutorials
-    url: mpi-pboc/2024/tutorials
+    url: /tutorials
   - title: readings
-    url: mpi-pboc/2024/readings
+    url: /readings
