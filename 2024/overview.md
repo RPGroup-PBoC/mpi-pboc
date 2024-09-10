@@ -16,7 +16,7 @@ Each day will consist of lectures (interspersed with breaks for coffee and lunch
 
 See the [schedule]({{ site.baseurl }}/2024/schedule) for details on each day's topics, and the [tutorials]({{ site.baseurl }}/2024/tutorials) page for links to computational notebooks.
 
-Unless otherwise noted, all meetings will take place in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building). 
+**where?**
 
 | Time | Session |
 | -- | -- |
