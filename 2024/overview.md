@@ -16,8 +16,6 @@ Each day will consist of lectures (interspersed with breaks for coffee and lunch
 
 See the [schedule]({{ site.baseurl }}/2024/schedule) for details on each day's topics, and the [tutorials]({{ site.baseurl }}/2024/tutorials) page for links to computational notebooks.
 
-**where?**
-
 | Time | Session |
 | -- | -- |
 | 09:00 -- 10:00 | Lecture |
@@ -26,6 +24,6 @@ See the [schedule]({{ site.baseurl }}/2024/schedule) for details on each day's t
 | 12:30 -- 13:30 | Lunch |
 | 13:30 -- 16:00 | Lecture |
 | 16:00 -- 16:30 | Coffee break |
-| 16:30 -- 18:00 | Guest speaker |
+| 16:30 -- 18:00 | Lecture |
 | 18:00 -- 19:00 | Dinner |
 | 19:00 -- 21:00 | Computational tutorial |
