@@ -17,10 +17,11 @@ It's far from comprehensive, but if you're new to the subject, it pairs well wit
 
 | Tutorial | Date | Topic | Links |
 | :--: | -- | -- | -- |
-| 3 | April 17, 2024 | Computational sequence analysis. | |
-| 5 | April 29, 2024 | Stochastic simulations for population genetics. | |
-| 8 | May 20, 2024 | Working with images. | | 
-| 9 | May 29, 2024 | Fitting functions and tabular wrangling. | |
+| 1 | September 23, 2024 | TBA | |
+| 2 | September 24, 2024 | TBA | |
+| 3 | September 25, 2024 | TBA | | 
+| 4 | September 26, 2024 | TBA | |
+| 5 | September 27, 2024 | TBA | |
 
 ## External Resources
 
