@@ -13,11 +13,11 @@ Interacting with these readings is entirely optional, but highly encouraged.
 
 {% assign readings = site.data.2024.papers %}
 
-{% for week in readings %}
+{% for day in readings %}
 
-### {{ week[0] }}
+### {{ day[0] }}
 
-{% for p in week[1] %}
+{% for p in day[1] %}
 {% if p.link != None %}
 [{{ p.title }}]({{ p.link }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% else %}
