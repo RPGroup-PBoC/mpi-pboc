@@ -9,10 +9,10 @@ permalink: /2024/index
 <!-- _"So much of science proceeds by telling stories." --- Stephen Jay Gould_ -->
 
 ## About
-It is a wonderful time to be thinking about the workings of the living world. Historic advances in molecular biology, structural biology and the use of biophysical techniques such as optical traps have provided an unprecedented window on the mechanics of the cell. The aim of this course is to study the cell and its components using whatever tools we need in order to make quantitative and predictive statements about cellular life. The main intellectual thread of the course will be the idea that the type of quantitative data which is becoming routine in biology calls for a corresponding quantitative modeling framework. The plan of this course is to elucidate general principles with exciting case studies.
+It is a wonderful time to be thinking about the workings of the living world. Historic advances in molecular biology, structural biology, and the use of biophysical techniques such as optical traps have provided an unprecedented window on the mechanics of the cell. The aim of this course is to study the cell and its components using whatever tools we need in order to make quantitative and predictive statements about cellular life. The main intellectual thread of the course will be the idea that the type of quantitative data which is becoming routine in biology calls for a corresponding quantitative modeling framework. The plan of this course is to elucidate general principles with exciting case studies.
 
 ## Where and when
-Each day will consist of lectures (interspersed with breaks for coffee and lunch), followed by an evening computational session led by the TAs.
+Each day —  which begins at 9am and finishes at 9pm —  consist of lectures (interspersed with breaks for coffee and lunch), followed by an evening computational session led by the TAs.
 
 See the [schedule]({{ site.baseurl }}/2024/schedule) for details on each day's topics, and the [tutorials]({{ site.baseurl }}/2024/tutorials) page for links to computational notebooks.
 
