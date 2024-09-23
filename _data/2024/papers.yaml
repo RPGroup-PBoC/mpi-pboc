@@ -7,25 +7,32 @@ Day 1:
   description: "Striking experiments on the remarkable capabilities of dolphin echolocation."
 
 - title: "Cormac McCarthy Did Not Talk Craft, With One Surprising Exception"
-  author: "Walker Mimms"
+  author: "Walker Mimms."
   journal: "New York Times"
   year: "2024"
   PDF: "Payne.pdf"
   description: "Reflections on the life of Roger Payne through the lens of his relationship with the late great American writer Cormac McCarthy."
 
 - title: "More is Different"
-  author: "P.W. Anderson"
+  author: "P.W. Anderson."
   journal: "Science"
   year: "1972"
   PDF: "Anderson1972.pdf"
   description: "Musings on the role of fundamental laws in science."
 
 - title: "Watch antibiotic resistance evolve"
-  author: "M. Baym, R. Kishony, R. Groleau, T. Lieberman, R. Chait"
+  author: "M. Baym, R. Kishony, R. Groleau, T. Lieberman, R. Chait."
   journal: "Science News"
   year: "2016"
   link: "https://www.youtube.com/watch?v=yybsSqcB7mE"
   description: "Experiment showing the evolution of antibiotic resistance in growing bacteria."
+
+- title: "Duration of urination does not change with body size."
+  author: "P. Yang, J. Pham, J. Choo, D. Hu."
+  journal: "PNAS"
+  year: "2014"
+  PDF: "Yang2014.pdf"
+  description: "The surprising universality of urination times as a window into fluid dynamics and allometric scaling!"
 
 Day 2:
 Day 3:
