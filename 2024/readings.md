@@ -20,11 +20,15 @@ Interacting with these readings is entirely optional, but highly encouraged.
 {% for p in day[1] %}
 {% if p.link != None %}
 [{{ p.title }}]({{ p.link }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
+{% elsif p.PDF != None %}
+[{{ p.title }}]({{ site.baseurl }}/2024/papers/{{ p.PDF }}) by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% else %}
 {{p.title}} by {{ p.author }} *{{ p.journal }}* ({{ p.year }}). {{ p.description }}
 {% endif %}
 {% endfor %}
 {% endfor %}
+
+
 
 ## External Resources
 Links to external databases and other resources that you may find helpful during the course.
