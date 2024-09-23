@@ -19,7 +19,7 @@ It's far from comprehensive, but if you're new to the subject, it's a great plac
 
 | Tutorial | Date | Topic | Links |
 | :--: | -- | -- | -- |
-| 1 | September 23, 2024 | Numerical Integration with Forward Euler | https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html |
+| 1 | September 23, 2024 | Numerical Integration with Forward Euler | [notebook](https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html) |
 | 2 | September 24, 2024 | TBA | |
 | 3 | September 25, 2024 | TBA | | 
 | 4 | September 26, 2024 | TBA | |
