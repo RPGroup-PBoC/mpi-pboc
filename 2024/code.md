@@ -36,3 +36,6 @@ Below is a list of useful online resources for learning the Python programming l
 * [Be/Bi 103: Data Analysis in the Biological Sciences](http://www.bebi103.caltech.edu), Caltech
 
 * [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html), Justin Bois
+
+* [Joe Blitzstein, Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/about), Harvard
+
