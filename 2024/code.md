@@ -17,13 +17,13 @@ You may disregard the final section ("Using Colab for Bi 1"), which is specific 
 - [Tutorial 0: Introduction to Python](https://colab.research.google.com/drive/1WGEmPLcuYrGZ7IfvKAqWjRi7yTrTx6k9?usp=sharing) is a gentle, abridged introduction to the Python programming language.
 It's far from comprehensive, but if you're new to the subject, it's a great place to start.
 
-| Tutorial | Date | Topic | Links |
-| :--: | -- | -- | -- |
-| 1 | September 23, 2024 | Numerical Integration with Forward Euler | [notebook](https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html) |
-| 2 | September 24, 2024 | Constitutive Expression | [notebook](https://colab.research.google.com/drive/1SMXOIuHkH1IdSgvoOC-gvpwOI074KoNM#scrollTo=WEQh8uYnardT) |
-| 3 | September 25, 2024 | TBA | | 
-| 4 | September 26, 2024 | TBA | |
-| 5 | September 27, 2024 | TBA | |
+| Tutorial | Date | Topic |
+| :--: | -- | -- | 
+| 1 | September 23, 2024 | [Numerical Integration with Forward Euler](https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html) |
+| 2 | September 24, 2024 | [Constitutive Expression](https://colab.research.google.com/drive/1SMXOIuHkH1IdSgvoOC-gvpwOI074KoNM#scrollTo=WEQh8uYnardT) |
+| 3 | September 25, 2024 | TBA |
+| 4 | September 26, 2024 | TBA |
+| 5 | September 27, 2024 | TBA |
 
 ## External Resources
 
