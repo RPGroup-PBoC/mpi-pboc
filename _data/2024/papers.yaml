@@ -50,7 +50,7 @@ Day 1:
   author: "Bakshi et al."
   journal: "molecular microbiology"
   year: "2012"
-  link: "Bakshi2012.pdf"
+  PDF: "Bakshi2012.pdf"
   description: ""
 
 Day 2:
@@ -58,21 +58,21 @@ Day 2:
   author: "Golding et al."
   journal: "Cell"
   year: "2005"
-  link: "Golding2005.pdf"
+  PDF: "Golding2005.pdf"
   description: ""
 
 - title: "Tsunami-driven rafting: Transoceanicspecies dispersal and implicationsfor marine biogeography"
   author: "Carlton et al."
   journal: "Science"
   year: "2017"
-  link: "Carlton2017.pdf"
+  PDF: "Carlton2017.pdf"
   description: ""
 
 - title: "The First 50 Million Prime Numbers"
   author: "Don Zagier, translated by R. Perlis."
   journal: "Beihefte zu Elemente der Mathematik"
   year: "1975"
-  link: "Zagier1975.pdf"
+  PDF: "Zagier1975.pdf"
   description: ""
 
 Day 3:
