@@ -34,3 +34,5 @@ Below is a list of useful online resources for learning the Python programming l
 * [BE/Bi/NB 203: Programming in the Biological Sciences](http://justinbois.github.io/bootcamp/2016/), Caltech
 
 * [Be/Bi 103: Data Analysis in the Biological Sciences](http://www.bebi103.caltech.edu), Caltech
+
+* [Probability Distribution Explorer](https://distribution-explorer.github.io/index.html), Justin Bois
