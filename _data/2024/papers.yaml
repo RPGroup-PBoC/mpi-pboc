@@ -86,8 +86,7 @@ Day 3:
 - title: "Cells, Embryos and Evolution"
   author: "Jon Gerhart and Marc Kirschner"
   journal: "Wiley"
-  year: "1997"
-  link: "https://www.amazon.com/Cells-Embryos-Evolution-Jon-Gerhart/dp/0865425744"
+  year: "1997"https://books.google.de/books/about/Cells_Embryos_and_Evolution.html?id=JrATAQAAIAAJ&source=kp_book_description&redir_esc=y"
   description: "We discussed the lessons on exploratory behavior from Chapter 4."
 
 - title: "Feynman and the visualization of space-time processes"
@@ -130,6 +129,13 @@ Day 3:
   journal: "PNAS"
   year: "2018"
   PDF: "BarOn2018.pdf"
+  description: ""
+
+- title: "Your Inner Fish: Neil Shubin - Conversations with History"
+  author: "Neil Shubin and Harry Kreisler"
+  journal: "University of California Television"
+  year: "2009"
+  link: "https://www.youtube.com/watch?v=qiecZveYhjs"
   description: ""
 
 Day 4:
