@@ -76,6 +76,41 @@ Day 2:
   description: ""
 
 Day 3:
+- title: "Reflections on the Motive Power of Heat"
+  author: "N.-L.-S. Carnot"
+  journal: "John Wiley & Sons"
+  year: "1897"
+  PDF: "carnot1897.pdf"
+  description: ""
+
+- title: "Cells, Embryos and Evolution"
+  author: "Jon Gerhart and Marc Kirschner"
+  journal: "Wiley"
+  year: "1997"
+  link: "https://www.amazon.com/Cells-Embryos-Evolution-Jon-Gerhart/dp/0865425744"
+  description: "We discussed the lessons on exploratory behavior from Chapter 4."
+
+- title: "Feynman and the visualization of space-time processes"
+  author: "Silvan S. Schweber"
+  journal: "American Physical Society"
+  year: "1986"
+  PDF: "Schweber1986"
+  description: ""
+
+- title: "Does evolutionary theory need a rethink?"
+  author: "Laland, K., et al."
+  journal: "Nature"
+  year: "2014"
+  PDF: "evo_rethink.pdf"
+  description: ""
+
+- title: "In Memoriam: Jacques Monod (1910–1976)"
+  author: "Agnes Ullmann"
+  journal: "Genome Biol. Evol."
+  year: "2011"
+  PDF: "MonodMemorium.pdf"
+  description: ""
+
 Day 4:
 Day 5:
 
