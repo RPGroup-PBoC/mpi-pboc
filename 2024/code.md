@@ -19,7 +19,7 @@ It's far from comprehensive, but if you're new to the subject, it's a great plac
 
 | Tutorial | Date | Topic |
 | :--: | -- | -- | 
-| 1 | September 23, 2024 | [Numerical Integration with Forward Euler](https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html) [Intro to Image Segmentation](https://colab.research.google.com/drive/1-Q2aGGZpKW_6kSLF9bgidMr9W5vu1Kp9) |
+| 1 | September 23, 2024 | [Numerical Integration with Forward Euler](https://www.rpgroup.caltech.edu/pboc22_marseille/code/forward_euler.html) // [Intro to Image Segmentation](https://colab.research.google.com/drive/1-Q2aGGZpKW_6kSLF9bgidMr9W5vu1Kp9) |
 | 2 | September 24, 2024 | [Constitutive Expression](https://colab.research.google.com/drive/1SMXOIuHkH1IdSgvoOC-gvpwOI074KoNM#scrollTo=WEQh8uYnardT) |
 | 3 | September 25, 2024 | TBA |
 | 4 | September 26, 2024 | TBA |
