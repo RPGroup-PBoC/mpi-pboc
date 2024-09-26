@@ -33,6 +33,8 @@ Interacting with these readings is entirely optional, but highly encouraged.
 ## External Resources
 Links to external databases and other resources that you may find helpful during the course.
 
+* [Physical Biology of the Cell (online pandemic version)](https://www.youtube.com/@physicalbiologyofthecellca307/). This YouTube channel is home to hundreds of vignettes which Rob recorded for the remote version of this course; you may enjoy revisiting concepts we've covered in person this week at your own pace.
+
 * [The Bionumbers Database](https://bionumbers.hms.harvard.edu/search.aspx). An incredibly handy collection of numbers from the molecular and cell biology literature.
 
 * [The Human Impacts Database](https://anthroponumbers.org/). Useful quantities describing the interactions of humans with Earth's land, oceans, atmosphere, flora and fauna.
