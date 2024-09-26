@@ -27,3 +27,12 @@ See the [schedule]({{ site.baseurl }}/2024/schedule) for details on each day's t
 | 16:30 -- 18:00 | Lecture |
 | 18:00 -- 19:00 | Dinner |
 | 19:00 -- 21:00 | Computational tutorial |
+
+## Exit Assignment
+This assignment is entirely optional; however, should you choose to do any
+or all of it, we would love to read your thoughts. Please send your responses
+to us at:
+• phillips@pboc.caltech.edu
+• kondev@brandeis.edu
+• aduarte@caltech.edu
+• kian@caltech.edu
