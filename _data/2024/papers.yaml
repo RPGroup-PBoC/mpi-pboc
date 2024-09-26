@@ -142,11 +142,19 @@ Day 4:
   description: ""
 
 - title: "Local thermodynamics govern formation and dissolution of Caenorhabditis elegans P granule condensates"
-  author: "Anatol W. Fritsch, et al.."
+  author: "Anatol W. Fritsch, et al."
   journal: "PNAS"
   year: "2021"
   PDF: "fritsch2021.pdf"
   description: ""
+
+- title: "The Feynman Lectures on Physics"
+  author: "Richard Feynman."
+  journal: "California Institute of Technology"
+  year: "1965, 2006, 2013"
+  link: "https://www.feynmanlectures.caltech.edu/"
+  description: ""
+
 
 Day 5:
 
