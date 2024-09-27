@@ -178,3 +178,10 @@ Day 5:
   PDF: "Fisher07_EvolutionaryDynamics.pdf"
   description: "Daniel Fisher's lectures on evolutionary dynamics."
 
+- title: "The Probability of Heads"
+  author: "Joseph B. Keller"
+  journal: "Lyman Laboratory, Harvard University"
+  year: "1986"
+  PDF: "Keller_probheads.pdf"
+  description: ""
+
