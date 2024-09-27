@@ -163,3 +163,18 @@ Day 5:
   year: "2023"
   PDF: "hoehler2023-the-metabolic-rate-of-the-biosphere-and-its-components.pdf"
   description: ""
+
+- title: "Dissipation and energy propagation across scales in an active cytoskeletal material"
+  author: "Peter J. Foster, et al."
+  journal: "PNAS"
+  year: "2023"
+  PDF: "foster2023.pdf"
+  description: "Measuring the dissipation of motor-microtubule materials report orders of magnitude discrepancies in efficiency."
+
+- title: "Evolutionary Dynamics"
+  author: "Daniel S. Fisher"
+  journal: "Lyman Laboratory, Harvard University"
+  year: "2023"
+  PDF: "Fisher07_EvolutionaryDynamics.pdf"
+  description: "Daniel Fisher's lectures on evolutionary dynamics."
+
