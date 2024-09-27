@@ -23,7 +23,7 @@ It's far from comprehensive, but if you're new to the subject, it's a great plac
 | 2 | September 24, 2024 | [Intro to Image Segmentation](https://colab.research.google.com/drive/1-Q2aGGZpKW_6kSLF9bgidMr9W5vu1Kp9) |
 | 3 | September 25, 2024 | [Constitutive Expression](https://colab.research.google.com/drive/1SMXOIuHkH1IdSgvoOC-gvpwOI074KoNM#scrollTo=WEQh8uYnardT) |
 | 4 | September 26, 2024 | [Diffusion by Coin Flips](https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing) // [Diffusion with Reset Dynamics](https://colab.research.google.com/drive/1pGJZHC1FE3VpX6SVaF-kKwbu1vUIYfY8#scrollTo=AZoq85IS6nLl) |
-| 5 | September 27, 2024 | TBA |
+| 5 | September 27, 2024 | [Machine Learning for Animal Detection](https://colab.research.google.com/drive/1eVFSKaLlRk4phJmw2GOh-D_rw4rV6Ofh?usp=sharing) |
 
 ## External Resources
 
